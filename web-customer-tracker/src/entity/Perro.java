@@ -1,6 +1,7 @@
 public class Perro{
 
-  private age;
+  private int age;
+  private Persona owner;
   
   public Perro(){
   }
