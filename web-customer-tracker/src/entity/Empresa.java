@@ -10,5 +10,10 @@ public class Empresa{
 	public Empresa(String name){
 		this.name = name;
 	}
+	
+	public Empresa(String name, int nit){
+		this.name = name;
+		this.nit = nit;
+	}
 
 }
