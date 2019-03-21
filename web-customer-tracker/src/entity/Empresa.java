@@ -15,5 +15,9 @@ public class Empresa{
 		this.name = name;
 		this.nit = nit;
 	}
+	
+	public void setName(String name){
+		this.name = name;
+	}
 
 }
