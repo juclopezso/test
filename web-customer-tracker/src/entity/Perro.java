@@ -1,8 +1,14 @@
 public class Perro{
 
-  private age;
+  private int age;
+  private String name;
   
   public Perro(){
+  
+  }
+
+  public Perro(int age){
+  	this.age = age;
   }
   
 }
