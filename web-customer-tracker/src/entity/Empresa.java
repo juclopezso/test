@@ -18,6 +18,13 @@ public class Empresa{
 	
 	public void setName(String name){
 		this.name = name;
+
+	public String getName(){
+		return this.name;
+	}
+
+	public void setNit(String nit){
+		this.nit = nit;
 	}
 
 }
