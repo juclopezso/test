@@ -16,4 +16,8 @@ public class Empresa{
 		this.nit = nit;
 	}
 
+	public void setNit(String nit){
+		this.nit = nit;
+	}
+
 }
