@@ -15,6 +15,10 @@ public class Empresa{
 		this.name = name;
 		this.nit = nit;
 	}
+	
+	public String getName(){
+		return this.name;
+	}
 
 	public void setNit(String nit){
 		this.nit = nit;
