@@ -4,7 +4,11 @@ public class Empresa{
 	private int nit;
 
 	public Empresa(){
-	
+
+	}
+
+	public Empresa(String name){
+		this.name = name;
 	}
 
 }
