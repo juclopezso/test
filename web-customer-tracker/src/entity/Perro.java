@@ -14,4 +14,8 @@ public class Perro{
   	this.age = age;
   }
   
+  public void getName(){
+  	return this.name;
+  }
+  
 }
